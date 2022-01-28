@@ -1,7 +1,7 @@
 name = "FLoopsBase"
 uuid = "b9860ae5-e623-471e-878b-f6a53c775ea6"
 authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
-version = "0.1.1-DEV"
+version = "0.1.1"
 
 [deps]
 ContextVariablesX = "6add18c4-b38d-439d-96f6-d6bc489c04c5"

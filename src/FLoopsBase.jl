@@ -9,4 +9,6 @@ function with_extra_state_variables(f, variables)
     with_context(f, EXTRA_STATE_VARIABLES => new_vars)
 end
 
+abstract type AbstractScratchSpace end
+
 end
